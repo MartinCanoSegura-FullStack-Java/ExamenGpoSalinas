@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /*
  *Pruebas desde STS
+ *
+ *XXX
  */
 
 @SpringBootApplication
